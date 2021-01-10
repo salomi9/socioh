@@ -1,0 +1,13 @@
+
+/* .active{
+    background-color: aqua;
+    color: beige;
+} */
+
+.nav-pills .nav-link {
+    color: black;
+}
+
+.nav-pills .nav-link:not(.active):hover {
+    color: rgb(136, 124, 124);
+}
